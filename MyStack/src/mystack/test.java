@@ -7,7 +7,7 @@ package mystack;
 
 public class test {
 
-    // BRANCH REL 1.0
+    // BRANCH REL 2.0
 
     public static void main(String[] args) {
         MyStack testStack = new MyStack(3);
