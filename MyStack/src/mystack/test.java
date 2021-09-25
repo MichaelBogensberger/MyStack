@@ -13,7 +13,7 @@ public class test {
         //Füge 3 hinzu
         testStack.push(2);
         testStack.push(2);
-        testStack.push(5);
+        testStack.push(7);
         
         // Lösche zwei weg und danach ausgeben
         testStack.pop();
