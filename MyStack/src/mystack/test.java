@@ -17,6 +17,15 @@ public class test {
         testStack.push(2);
         testStack.push(2);
         testStack.push(7);
+        testStack.push(2);
+        testStack.push(2);
+        testStack.push(7);
+        testStack.push(2);
+        testStack.push(2);
+        testStack.push(7);
+        testStack.push(2);
+        testStack.push(2);
+        testStack.push(7);
         
         // Lösche zwei weg und danach ausgeben
         testStack.pop();
